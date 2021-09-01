@@ -1,2 +1,2 @@
 # qrs2021_jmst
-joint metric selection and transformation
+Joint Metric Selection and Transformation
